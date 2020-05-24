@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/5/14 19:13:04。
+     1>项目“E:\文档\Visual Studio 2013\Projects\5_12\5_12\5_12.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\文档\visual studio 2013\projects\5_12\5_12\test.cpp(27): warning C4520: “Date”: 指定了多个默认构造函数
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\文档\Visual Studio 2013\Projects\5_12\Debug\5_12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\文档\Visual Studio 2013\Projects\5_12\Debug\5_12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\文档\Visual Studio 2013\Projects\5_12\Debug\5_12.lib" /MACHINE:X86 Debug\test.obj
+         5_12.vcxproj -> E:\文档\Visual Studio 2013\Projects\5_12\Debug\5_12.exe
+     1>已完成生成项目“E:\文档\Visual Studio 2013\Projects\5_12\5_12\5_12.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.68
